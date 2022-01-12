@@ -1,4 +1,4 @@
-import { getCountriesName } from '../src/index';
+import { getCountriesName } from '../src';
 import { countryData } from '../src/data';
 
 describe('Country List', () => {
